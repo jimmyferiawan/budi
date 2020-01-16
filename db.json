@@ -1,0 +1,21 @@
+{
+  "posts": [
+    { "userId": "a","id": 1, "title": "title 1" , "body": "body berita 1a"},
+    { "userId": "b","id": 2, "title": "title 2" , "body": "body berita 2b"},
+	{ "userId": "c","id": 3, "title": "title 3" , "body": "body berita 3c"},
+	{ "userId": "a","id": 4, "title": "title 4" , "body": "body berita 4a"},
+	{ "userId": "a","id": 5, "title": "title 5" , "body": "body berita 5a"},
+	{ "userId": "c","id": 6, "title": "title 6" , "body": "body berita 6c"},
+	{ "userId": "c","id": 7, "title": "title 7" , "body": "body berita 7c"},
+	{ "userId": "b","id": 8, "title": "title 8" , "body": "body berita 8b"},
+	{ "userId": "b","id": 9, "title": "title 9" , "body": "body berita 9b"},
+	{ "userId": "a","id": 10, "title": "title 10" , "body": "body berita 10a"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "jimmyferiawan"
+  }
+}
